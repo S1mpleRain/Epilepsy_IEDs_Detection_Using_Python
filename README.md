@@ -313,7 +313,7 @@ This project is intended for **academic research and educational purposes only**
 
 **Developer**: Boyu Qian (Neural Engineering, Duke University)
 
-**Laboratory**: Dr. Shruti Agashe's Laboratory, Department of Biomedical Engineering
+**Laboratory**: Dr. Shruti Agashe's Laboratory, Department of Duke Neurology
 
 For questions or collaboration:
 - GitHub Issues: Submit to project repository
